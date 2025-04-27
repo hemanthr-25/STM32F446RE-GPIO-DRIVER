@@ -12,9 +12,9 @@ Features
 7) Interrupt configuration- Rising/Falling triggering
 
 There are 3 sample projects in this which can be used to demonstrate 
-main.c -> this toggles the user LED on board
-002_userButton.c -> this demonstrates both input and ouput modes using pooling method
-003_GPIOinterrupt.c -> this demonstrates both input and output modes using Interrupt method
+1) main.c -> this toggles the user LED on board
+2) 002_userButton.c -> this demonstrates both input and ouput modes using pooling method
+3) 003_GPIOinterrupt.c -> this demonstrates both input and output modes using Interrupt method
 
 ## 🎥 Project Demo
 
